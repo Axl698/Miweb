@@ -1,6 +1,6 @@
 <?php
 
-echo "Chanchito feliz"
-echo "Chanchito feliz x2"
+echo "Chanchito feliz";
+echo "Chanchito feliz x2";
 
 ?>
