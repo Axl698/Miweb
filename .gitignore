@@ -1,0 +1,3 @@
+.env
+node_modules/
+#El slash hacia adelante marca que es una carpeta
